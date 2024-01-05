@@ -27,7 +27,7 @@ Joining HackItFirst allowed me to explore the exciting intersection of ethical h
 
 ## 🌟 Projects
 
-### [Snake Game](https://vatistasdimitris.github.io/snakegame/)
+### [Snake Game](https://github.com/vatistasdimitris/snakegame)
 
 Currently, I'm working on recreating the classic Snake Game. Check out the project to experience the nostalgia and see how I'm bringing a modern touch to this beloved game!
 
