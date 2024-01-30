@@ -1,6 +1,6 @@
 # 👨‍💻 Dimitris Vatistas - Web Designer  👨‍💻
 
-## 🌐 Portfolio | [Website](linkr.bio/dimitrisvatistas) | [LinkedIn](https://www.linkedin.com/in/dimitris-vatistas/)
+## 🌐 Portfolio | [LinkedIn](https://www.linkedin.com/in/dimitris-vatistas/)
 
 Hello there! I'm Dimitris Vatistas, a passionate web designer with a knack for creating visually stunning and user-friendly websites. I've had the privilege of working with innovative companies, leaving my mark on the digital world.
 
@@ -32,6 +32,20 @@ Joining HackItFirst allowed me to explore the exciting intersection of ethical h
 Currently, I'm working on recreating the classic Snake Game. Check out the project to experience the nostalgia and see how I'm bringing a modern touch to this beloved game!
 
 ### [Pac-Man](#) - Coming Soon!
+
+### [Cheap AI Chess](https://github.com/vatistasdimitris/Cheap-AI-Chess) - Stay tuned for a low-cost AI Chess project! 
+
+Excited to delve into the world of chess? This project aims to bring you a budget-friendly yet challenging AI chess experience.
+
+### [Corfu Travel](https://vatistasdimitris.github.io/Corfu-Travel/) - Explore the beauty of Corfu with our travel project!
+
+Planning a trip to Corfu? Discover the best places to visit, local insights, and travel tips through our Corfu Travel project. Your adventure starts here!
+
+### [AI Agents](https://github.com/vatistasdimitris/AI-Agents) - Unleash the power of intelligent agents!
+
+Explore the world of AI Agents in this project, where intelligent agents are designed to perform various tasks. Discover the capabilities and applications of artificial intelligence in agent-based systems.
+
+
 
 Exciting things are in the pipeline! Stay tuned for the upcoming release of my Pac-Man project. Get ready for a dose of retro gaming fun!
 
