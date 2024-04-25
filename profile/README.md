@@ -45,13 +45,16 @@ Planning a trip to Corfu? Discover the best places to visit, local insights, and
 
 Explore the world of AI Agents in this project, where intelligent agents are designed to perform various tasks. Discover the capabilities and applications of artificial intelligence in agent-based systems.
 
+### [Logo Design Work](https://vatistasdimitris.format.com/work) - Check out my logo design projects [here](#).
 
+In my logo design work, I strive to create unique and memorable brand identities that resonate with the target audience.
+
+### [David AI](https://vatistasdimitris.zapier.app/page) - Meet David, your friendly AI assistant!
+
+David is an AI designed to assist you in various tasks, from managing your schedule to providing information and recommendations. Experience the convenience of AI with David by your side.
 
 Exciting things are in the pipeline! Stay tuned for the upcoming release of my Pac-Man project. Get ready for a dose of retro gaming fun!
 
 ## 📬 Let's Connect
 
 I'm always open to exciting collaborations and new opportunities. Feel free to reach out to me through [Instagram](https://www.instagram.com/vatistasdimitris/)  or  [LinkedIn](https://www.linkedin.com/in/dimitris-vatistas/). Let's create something amazing together!
-
-
-
