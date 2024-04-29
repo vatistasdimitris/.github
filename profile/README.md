@@ -45,7 +45,7 @@ Planning a trip to Corfu? Discover the best places to visit, local insights, and
 
 Explore the world of AI Agents in this project, where intelligent agents are designed to perform various tasks. Discover the capabilities and applications of artificial intelligence in agent-based systems.
 
-### [Logo Design Work](https://vatistasdimitris.format.com/work) - Check out my logo design projects [here](#).
+### [Logo Design Work](https://vatistasdimitris.format.com/gallery#_) - Check out my logo design projects [here](https://vatistasdimitris.format.com/gallery#_).
 
 In my logo design work, I strive to create unique and memorable brand identities that resonate with the target audience.
 
